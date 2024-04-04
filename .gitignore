@@ -1,5 +1,0 @@
-# Licensed under the MIT license.
-
-node_modules
-.env
-*.swp
