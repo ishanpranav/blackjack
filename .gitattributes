@@ -1,4 +1,4 @@
 # Licensed under the MIT license.
 
-docs/ -linguist-documentation
+docs/** -linguist-documentation
 docs/public/images linguist-vendored
